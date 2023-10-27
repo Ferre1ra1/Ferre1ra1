@@ -22,3 +22,5 @@
 <img style= "align='center'" alt = "C++" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img style= "align='center'" alt = "SCSS" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div> 
+
+[![Gustavo Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1)](https://github.com/Ferre1ra1/github-readme-stats)
