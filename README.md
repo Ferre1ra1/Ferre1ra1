@@ -1,7 +1,7 @@
 ### Hi! I'm Gustavo Ferreira 😃
 
 ### Contact 💬 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
 
 
 ### Advanced knowledge 
@@ -12,9 +12,7 @@
 </div>
 
 ### Intermediate knowledge
-<div style = "display: inline_block">
-<img style= "align='center'" alt = "nomeLinguagem" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Ferre1ra1/JAVA)
 
 
 ### Basic knowledge/studying
