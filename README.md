@@ -1,4 +1,4 @@
-<center> <h1 >Hi! I'm Gustavo Ferreira 😃 </h1></center>
+<h1 align="center">Hi! I'm Gustavo Ferreira 😃 </h1>
 
 ### Contact 💬 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
