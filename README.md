@@ -1,4 +1,4 @@
-<div style = "align='center'"> <h1 >Hi! I'm Gustavo Ferreira 😃 </h1></div>
+<center> <h1 >Hi! I'm Gustavo Ferreira 😃 </h1></center>
 
 ### Contact 💬 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
