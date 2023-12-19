@@ -21,4 +21,5 @@
 
 
 [![Gustavo Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1)](https://github.com/Ferre1ra1/github-readme-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&layout=compact)
