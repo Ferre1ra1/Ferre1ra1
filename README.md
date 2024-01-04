@@ -4,14 +4,11 @@
 
 ### Contact 💬 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavoferreiravargens@gmail.com)
 
 
 ### Languages
 <img src = "./imgs-logo/java.png" alt = "java" style = "width:40px">
-<img style = "width:40px" alt = "CSS3" src= "./imgs-logo/css-3.png">
-<img style = "width:40px" alt = "HTML5" src= "./imgs-logo/css-3.png">
 <img style = "width:40px" alt = "CSS" src= "./imgs-logo/css-3.png">
 
 
