@@ -16,4 +16,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![Gustavo Ferreira's stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula'&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula&layout=compact)
