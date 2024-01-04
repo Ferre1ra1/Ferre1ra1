@@ -1,16 +1,21 @@
 <h1 align="center">Hi! I'm Gustavo Ferreira 😃 </h1>
 
+
+
 ### Contact 💬 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
 
 
-### Advanced knowledge 
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Ferre1ra1/JavaScript)
-<img style = "align='center'" alt = "CSS" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ferre1ra1/HTML)
 
-### Intermediate knowledge
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Ferre1ra1/JAVA)
+
+### Languages
+<img src = "./imgs-logo/java.png" alt = "java" style = "width:40px">
+<img style = "width:40px" alt = "CSS3" src= "./imgs-logo/css-3.png">
+<img style = "width:40px" alt = "HTML5" src= "./imgs-logo/css-3.png">
+<img style = "width:40px" alt = "CSS" src= "./imgs-logo/css-3.png">
+
+
+
 
 
 ### Basic knowledge/studying
@@ -21,5 +26,3 @@
 
 
 [![Gustavo Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1)](https://github.com/Ferre1ra1/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&layout=compact)
