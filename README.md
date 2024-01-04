@@ -1,4 +1,5 @@
-<h1 align="center">Hi! I'm Gustavo Ferreira 😃 </h1>
+# Hi! I'm Gustavo Ferreira 😃
+#### I'm currently studying computer science at Cruzeiro do Sul University 
 
 
 
@@ -8,18 +9,11 @@
 
 
 ### Languages
-<img src = "./imgs-logo/java.png" alt = "java" style = "width:40px">
-<img style = "width:40px" alt = "CSS" src= "./imgs-logo/css-3.png">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-
-
-
-### Basic knowledge/studying
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ferre1ra1/C-and-CPP)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Ferre1ra1/C-and-CPP)
-<img style= "align='center'" alt = "SCSS" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
-
-
-[![Gustavo Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1)](https://github.com/Ferre1ra1/github-readme-stats)
+![Gustavo Ferreira's stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula'&layout=compact)
