@@ -14,3 +14,5 @@
 ![Gustavo Ferreira's stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1&show_icons=true&theme=dracula)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Ferre1ra1/github-readme-stats)
