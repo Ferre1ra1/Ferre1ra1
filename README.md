@@ -14,3 +14,5 @@
 ![Gustavo Ferreira's stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1&show_icons=true&theme=dracula)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula&layout=compact)
+
+![icons8-java-480](https://github.com/user-attachments/assets/4154856a-aa0b-4781-b016-7da244229c0d)
