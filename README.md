@@ -1,8 +1,8 @@
 # Hi! I'm Gustavo Ferreira
 
-#### Currently working as a trainee in network infrastructure
-#### Currently studying MySQL 🦾
-#### Bachelor in computer science | 5° sem 🎓
+- Currently working as a trainee in network infrastructure
+- Currently studying MySQL 🦾
+- Bachelor in computer science | 5° sem 🎓
 
 
 
