@@ -7,7 +7,7 @@
 
 
 
-### Contact 💬 
+## Contact 💬 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoferreiravargens)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
@@ -18,6 +18,7 @@
 
 
 
+## Technologies 🤖
 
 ![icons8-html-48](https://github.com/user-attachments/assets/ae5bae63-7d75-42f5-9c28-1dc44b9beb11)
 ![icons8-javascript-48](https://github.com/user-attachments/assets/af04bed2-124c-464b-80c0-b6b197a02f89)
