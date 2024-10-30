@@ -12,5 +12,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferreiravargens@gmail.com)
 
 ![Gustavo Ferreira's stats](https://github-readme-stats.vercel.app/api?username=Ferre1ra1&show_icons=true&theme=dracula)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&show_icons=true&theme=dracula&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre1ra1&langs_count=8)
