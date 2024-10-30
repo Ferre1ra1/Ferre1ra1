@@ -1,7 +1,7 @@
-# Hi! I'm Gustavo Ferreira 😃
+# Hi! I'm Gustavo Ferreira
 ## I'm currently working as a trainee in network infrastructure
-### I'm currently devoting my time to perfecting my knowledge of databases, specifically the MySQL language. I'm also studying Spanish to improve my pronunciation.
-#### I'm currently studying computer science at Cruzeiro do Sul University 
+#### I'm currently devoting my time to perfecting my knowledge of databases, specifically the MySQL language. I'm also studying Spanish to improve my pronunciation. 
+#### I'm currently studying computer science at Cruzeiro do Sul University 🎓
 
 
 
